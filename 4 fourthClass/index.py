@@ -46,3 +46,9 @@ for num in number:
 
 data = ["Hasnain" , 23 , True]
 print(data)
+
+
+# turple
+
+userActualData = ("Hasnain Khushi" , +923555426257 , "Gilgit" , "Full Stack developer")
+print(userActualData)
